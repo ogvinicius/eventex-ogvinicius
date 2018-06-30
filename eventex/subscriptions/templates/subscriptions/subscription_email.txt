@@ -1,0 +1,14 @@
+Olá! Tudo bem?
+
+Muito obrigada por se blá blá blá...
+
+Nome: {{ name }}
+CPF: {{ cpf }}
+Email: {{ email }}
+Telefone: {{ phone }}
+
+Em até 48 horas úteis nlá blá blá...
+
+Atenciosamente,
+--
+Morena
