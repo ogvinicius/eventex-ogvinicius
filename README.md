@@ -2,6 +2,8 @@
 
 Sistema de Eventos encomendado pela Morena.
 
+[![Build Status](https://travis-ci.org/ogvinicius/eventex-ogvinicius.svg?branch=master)](https://travis-ci.org/ogvinicius/eventex-ogvinicius)
+
 ## Como desenvolver?
 1. Clone o repositório.
 2. Crie um virtualenv com Python 3.5
